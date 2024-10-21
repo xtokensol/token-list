@@ -6,7 +6,7 @@
       "symbol": "PORK",
       "name": "PORK Token",
       "decimals": 9,
-      "logoURI": "https://github.com/xtokensol/token-list/blob/main/assets/porktokensol.png",
+      "logoURI": "https://raw.githubusercontent.com/xtokensol/token-list/main/assets/porktokensol.png",
       "tags": [
         "utility-token"
       ]
